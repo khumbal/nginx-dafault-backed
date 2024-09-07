@@ -1,0 +1,4 @@
+{
+    "error": "415 Unsupported Media Type",
+    "message": "The media type of the requested resource is not supported by this server."
+}
